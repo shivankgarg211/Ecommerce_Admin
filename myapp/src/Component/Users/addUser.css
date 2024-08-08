@@ -1,0 +1,26 @@
+.bordered-form {
+        border: 2px solid #ccc;       /* Adjust the border color and thickness as needed */
+        padding: 30px;           /* Add some padding to the form for better spacing */
+        border-radius: 10px;   /* Add rounded corners */
+      }
+     
+      .d-flex {
+        /* background-color: #F0F0F0; */
+        border-radius: 10px;
+      }
+
+      .form-label{
+        font-weight: 650;
+      }
+      .btn:hover {
+        box-shadow: 0 9px #999;
+        cursor: pointer;
+        background-color: #3e8e41
+      }
+      
+      .btn:active {
+        
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+      
